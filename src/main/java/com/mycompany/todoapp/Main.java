@@ -54,17 +54,17 @@ public class Main {
 //            System.out.println("A quantidade de tarefa(s) existente(s) é(são) = " + tasks.size());           
 //                       
                                   //Projetos\\
-       ProjectController projectController = new ProjectController(); 
-       Project project = new Project(); 
+//       ProjectController projectController = new ProjectController(); 
+//       Project project = new Project(); 
 //       
        
                         //atualizar projeto existente\\
-        project.setId(4);
-        project.setName("novo teste update");
-        project.setDescription("novo descrição2");
-        project.setCreatedAt(new Date());
-        project.setUpdatedAt(new Date());
-        projectController.update(project);
+//        project.setId(4);
+//        project.setName("novo teste update");
+//        project.setDescription("novo descrição2");
+//        project.setCreatedAt(new Date());
+//        project.setUpdatedAt(new Date());
+//        projectController.update(project);
         
                                //todos os projetos lista\\
 //        List<Project> projects = projectController.getAll();
